@@ -41,5 +41,6 @@ div/*styling for image*/
 }
 a:hover
 {
-  color: green;
+  color: #008000;
+  padding: 10%;
 }
