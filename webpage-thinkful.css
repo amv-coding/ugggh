@@ -39,3 +39,7 @@ div/*styling for image*/
     height: 50%;
 
 }
+a:hover
+{
+  color: green;
+}
