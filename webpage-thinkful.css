@@ -27,6 +27,7 @@ p/*adjusting the font for the body of the webpage*/
 {
   font-family: verdana;
   font-size: 10px;
+  text-align: center;
 }
 h4/* font style for the header inside the footer*/
 {
