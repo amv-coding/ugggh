@@ -15,12 +15,14 @@ h2
 {
     color:black;
     font-size: 12px;
+  text-align: center;
 
 }
 h3/* styling for sub headers made font smaller then main header for aesthitic reasons */
 {
     color: black;
     font-size: 10px;
+  text-align: center;
 
 }
 p/*adjusting the font for the body of the webpage*/
