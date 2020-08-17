@@ -8,32 +8,32 @@ h1/*styling for main header*/
  {
   color: black;
   text-align: center;
-  font-size:24px;
+  font-size:36px;
 }
 
 h2
 {
     color:black;
-    font-size: 12px;
+    font-size: 18px;
   text-align: center;
 
 }
 h3/* styling for sub headers made font smaller then main header for aesthitic reasons */
 {
     color: black;
-    font-size: 10px;
+    font-size: 16px;
   text-align: center;
 
 }
 p/*adjusting the font for the body of the webpage*/
 {
   font-family: verdana;
-  font-size: 10px;
+  font-size: 12px;
   text-align: center;
 }
 h4/* font style for the header inside the footer*/
 {
-    font-size: 6px;
+    font-size: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
