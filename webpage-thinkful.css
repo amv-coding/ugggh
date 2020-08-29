@@ -2,6 +2,7 @@ body /*background color for webpage went with a rustic them*/
 {
   background-color: white;
   margin: 0;
+  height: 10;
 }
 
 h1/*styling for main header*/
@@ -9,6 +10,7 @@ h1/*styling for main header*/
   color: black;
   text-align: center;
   font-size:36px;
+   
 }
 
 h2
@@ -35,11 +37,14 @@ h4/* font style for the header inside the footer*/
 {
     font-size: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
 }
 article
 {
   text-align: center;
+}
+ul
+{
+  font-weight: bold;
 }
 
 a:hover
